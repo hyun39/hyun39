@@ -1,6 +1,7 @@
 # 안녕하세요! 저는 hyun39입니다 👋
 
 GitHub for Next-Generation Coders 교재로 Git·GitHub을 실습하며 배우고 있습니다.
+(재실행 데모 갱신: 1783777664)
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=hyun39&show_icons=true&theme=dark)
