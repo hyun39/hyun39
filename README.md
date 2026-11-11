@@ -11,3 +11,7 @@ GitHub for Next-Generation Coders 교재로 Git·GitHub을 실습하며 배우�
 
 ## 🔭 최근 실습
 - [github_test_20260711](https://github.com/hyun39/github_test_20260711) — Wave 진화 서사 실습 저장소
+
+<!-- 실습 데모 섹션 (notebook-practice-pipeline 0-0단계) -->
+## 실습 데모
+이 섹션은 GitHub 교재 실습 자동화의 일부로 추가되었습니다.
